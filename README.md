@@ -1,6 +1,6 @@
 # Jogo Flappy Bird com javascript Puro
 
-[![NPM](https://github.com/jeandossantos/flappy-bird-com-javascript-puro/blob/master/LICENSE) 
+[![NPM](https://github.com/TXTDBR/flappy-bird-com-javascript-puro/blob/master/LICENSE) 
 
 # Sobre o projeto
 
