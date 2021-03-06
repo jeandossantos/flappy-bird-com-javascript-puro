@@ -14,10 +14,7 @@ Este projeto é a reprodução do jogo flappy bird utilizando apenas  html, css 
 ## Tecnologias utilizadas
 - HTML / CSS / JS
 
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Node JS 14.15.4
+## Como executar o projeto
 
 ```bash
 # clonar repositório
@@ -25,9 +22,10 @@ git clone https://github.com/jeandossantos/flappy-bird-com-javascript-puro
 
 # entrar na pasta do projeto flappybird e abrir o arquivo flappy.html
 
-## Front end web
-- Navegador
-
 ## como jogar
 - qualquer tecla faz o pássaro voar
 - reinicie o jogo com a tecla f5
+
+
+## Requisitos
+- Navegador
